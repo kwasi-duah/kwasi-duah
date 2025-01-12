@@ -9,7 +9,7 @@
   - [Configuring osTicket after Installation](https://github.com/kwasi-duah/post-install-config)
   - [Exploring Ticket Lifecycles in osTicket](https://github.com/kwasi-duah/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Setting Up On-Premises Active Directory in Azure Virtual Machines](https://github.com/kwasi-duah/configure-ad)
+  - [Setting Up On-Premises Active Directory in Azure Virtual Machines](https://github.com/kwasi-duah/configure-active-directory)
   - [Using Network Security Groups (NSGs) and Checking/Inspecting Network Protocols](https://github.com/kwasi-duah/azure-network-protocols)
 
 <h2>👨‍💻 Let’s Connect!</h2>
